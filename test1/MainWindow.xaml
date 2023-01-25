@@ -27,6 +27,7 @@
                         <VirtualizingStackPanel Orientation="Vertical"/>
 
 
+                        
 
                     </ItemsPanelTemplate>
                 </Menu.ItemsPanel>
